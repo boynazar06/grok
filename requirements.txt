@@ -1,6 +1,5 @@
-pyTelegramBotAPI
-deep-translator
+telebot
 gTTS
 groq
-python-telegram-bot==20.7
+
 
