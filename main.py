@@ -24,7 +24,7 @@ def query_ai(user_message):
                     "content": user_message
                 }
             ],
-            model="moonshotai/kimi-k2-instruct-0905",  # Eng tez model
+            model="llama-3.1-8b-instant",  # Eng tez model
             temperature=0.9,
             max_tokens=400,
         )
@@ -92,4 +92,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
