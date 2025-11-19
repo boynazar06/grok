@@ -1,5 +1,4 @@
-telebot
+pyTelegramBotAPI
+
 gTTS
 groq
-telegram
-
